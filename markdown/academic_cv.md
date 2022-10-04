@@ -3,7 +3,7 @@ Benjamin Kurt Miller
 
 <benmiller1315@gmail.com> • [homepage](http://www.mathben.com) • [google scholar](https://scholar.google.com/citations?user=IrCdg_wAAAAJ) • [github](https://github.com/bkmi) • [linkedin](https://www.linkedin.com/in/benjamin-k-miller/) • [twitter](https://twitter.com/bkmi13)
 
-Fascinated by the natural world and developing ways to better understand it. Experienced in carefully designed research into computational physics and machine learning involving the design and implementation of physical simulators and deep learning experiments. Talent for critical thinking and creative problem solving.
+Fascinated by the natural world and developing ways to better understand it. Experienced in carefully designed research into computational physics and machine learning involving implementing physical simulators and deep learning experiments. Talent for critical thinking and creative problem solving.
 
 
 EDUCATION
