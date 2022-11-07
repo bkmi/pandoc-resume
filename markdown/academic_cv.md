@@ -74,7 +74,7 @@ PUBLICATIONS
 -   Wujie Wang, Minkai Xu, Chen Cai, **Benjamin Kurt Miller**, Tess
     Smidt, Yusu Wang, Jian Tang, Rafael Gómez-Bombarelli. [Generative coarse-graining of molecular conformations](https://arxiv.org/abs/2201.12176). ICML 2022.
 
--   Cole, Alex, **Benjamin Kurt Miller**, et. al. [Fast and credible likelihood-free cosmology with truncated marginal neural ratio estimation](https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta). Journal of Cosmology and Astroparticle Physics. 2020.
+-   Alex Cole, **Benjamin Kurt Miller**, et. al. [Fast and credible likelihood-free cosmology with truncated marginal neural ratio estimation](https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta). Journal of Cosmology and Astroparticle Physics. 2020.
 
 -   Christoph Hönes, **Benjamin Kurt Miller**, et. al. [Automatically detecting anomalous exoplanet transits](https://arxiv.org/abs/2111.08679). NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2021/). 13 Dec 2021.
 
