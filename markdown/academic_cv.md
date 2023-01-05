@@ -107,7 +107,7 @@ PUBLICATIONS
 OPEN SOURCE
 -----------
 
--   Christoph Weniger, **Benjamin Kurt Miller**, Francesco Nattino, Alex Cole, Ou Ku, Meiert Willem Grootes, & Adam Coogan. (2021). 
+-   Christoph Weniger, **Benjamin Kurt Miller**, et. al. (2021). 
     [undark-lab/swyft](https://github.com/undark-lab/swyft/). Zenodo. 
     [doi.org/10.5281/zenodo.5752734](https://doi.org/10.5281/zenodo.5752734).
 
@@ -159,12 +159,12 @@ SUPERVISION & TEACHING
 ----------------------
 
 Aug. 2022 - Present
-:   **University of Amsterdam MSc Primary Advisor**  
+:   **University of Amsterdam M.Sc. Primary Advisor**  
     *University of Amsterdam*  
     Nienke Deutz  
 
 Nov. 2020 - Sept. 2021
-:   **University of Amsterdam MSc Co-Advisor**  
+:   **University of Amsterdam M.Sc. Co-Advisor**  
     *University of Amsterdam*  
     Christoph Hönes  
 
